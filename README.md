@@ -73,4 +73,4 @@ jupyter notebook
 This project is open-source and available under the **MIT License**.
 
 ---
-💡 _Developed by [Your Name] – Passionate about AI, Security, and Computer Vision!_ 🚀
+💡 _Developed by YGyan Gupta – Passionate about AI, Security, and Computer Vision!_ 🚀
